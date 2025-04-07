@@ -1,0 +1,31 @@
+library(readxl)
+df <- read_excel("data/titanic.xlsx")
+View(df)
+str(df)
+summary(df)
+dim(df)
+head(df)
+tail(df)
+nrow(df)
+ncol(df)
+colnames(df)
+rownames(df)
+
+sapply(df, class)
+
+is.na(df)
+sum(is.na(df))
+sum(is.na(df))
+colSums(is.na(df))
+sum(duplicated(df))
+df_first_class <- subset(df, pclass ==1)
+
+
+mean(df$pclass,na.rm = TRUE) 
+sd(df$pclass,na.rm = TRUE)
+
+df_pclass<- table(df$pclass)
+hist(df$pclass)
+boxplot(df$age)
+plot(df)
+plot(df_first_class)
