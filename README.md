@@ -28,3 +28,4 @@ This project is part of my learning journey in data analysis and visualization.
 It reflects my interest in applying R skills to real-world datasets, particularly in fields like economics, public policy, and social science research.
 
 regards"OWAIS ALI SHAH"
+#R #DataAnalysis #Econometrics #DataVisualization #GitHub #RProgramming #StatisticalAnalysis #QuantitativeResearch #DataScience #OpenSource #DataAnalytics #CodingInR #Economics #MachineLearning #RegressionAnalysis #ResearchProjects #UndergraduateResearch #ProgrammingSkills #AcademicProjects #Portfolio
